@@ -134,11 +134,11 @@ img {
     }
  }
 
- @media all and (max-width: 768px) {
-    .container {
+ /* @media all and (max-width: 768px) {
+    .container {                            I doned it before bonus
         width: 100%;
     }
- }
+ } */
 
 
  @media all and (max-width: 480px) {
